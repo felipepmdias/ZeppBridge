@@ -154,3 +154,6 @@ AGENTS.local.md
 *handoff*.md
 /artifacts/*-repair-*/
 temp-*.cjs
+
+# Lockfile do npm
+package-lock.json
